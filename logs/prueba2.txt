@@ -1,0 +1,7 @@
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] anonimo ha elegido Tijera
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] anonimo ha elegido Papel

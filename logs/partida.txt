@@ -1,0 +1,110 @@
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[INFO] Jugador NPC se prepara para jugar
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] anonimo ha elegido Papel
+[INFO] NPC ha elegido Papel
+[INFO] La partida termino en empate
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[INFO] Jugador NPC se prepara para jugar
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] anonimo ha elegido Piedra
+[INFO] NPC ha elegido Papel
+[INFO] NPC gano la partida
+[INFO] ---------------------
+
+[INFO] Jugador NPC se prepara para jugar
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] anonimo ha elegido Papel
+[INFO] NPC ha elegido Piedra
+[INFO] anonimo gano la partida
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[INFO] Nueva partida
+[INFO] ---------------------
+
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
+[WARN] Eleccion incorrecta. El jugador debe volver a elegir.
